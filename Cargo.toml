@@ -1,0 +1,11 @@
+[package]
+name = "monitoring"
+version = "0.1.1"
+authors = [ "Denys Tovstohan <titan074@gmail.com>" ]
+
+[dependencies]
+hashindexed = "0.1"
+lazy_static = "0.2"
+regex = "0.2"
+term-painter = "0.2"
+term = "0.4"
